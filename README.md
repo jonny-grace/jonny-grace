@@ -1,84 +1,81 @@
-# Hi there, I'm Yohannes Lemma! 👋
+# Yohannes Lemma
+**Full Stack Developer**  
+Email: [johnlemma9@gmail.com](mailto:johnlemma9@gmail.com) | Phone: +251 973374428 | Ethiopia  
+Portfolio: [https://john-portfolio-flame.vercel.app/](https://john-portfolio-flame.vercel.app/)
 
-Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** with over 3 years of experience building scalable, user-friendly web applications. My expertise lies in modern web technologies, creating clean and maintainable code, and delivering impactful projects.
+---
 
-## 📍 Contact Information
-- 🌍 Location: Ethiopia
-- 📧 Email: [johnlemma9@gmail.com](mailto:johnlemma9@gmail.com)
-- 📞 Phone: +251 973374428
-- 🌐 Portfolio: [john-portfolio-flame.vercel.app](https://john-portfolio-flame.vercel.app/)
+## PROFESSIONAL SUMMARY
+Experienced Full Stack Developer with over 4 years of expertise in React, Node.js, Next.js, Tailwind CSS, JavaScript, Nest.js, MongoDB, and related technologies. Proficient in developing scalable web applications, maintaining architectures, and integrating payment gateways. A collaborative team player with a focus on mentorship, efficient coding practices, and delivering clean, testable code. Strong leadership skills in driving project success while fostering innovation and efficiency.
 
-## 🛠️ Tech Stack & Skills
+---
 
-### Frontend:
-- **Languages & Libraries**: HTML, CSS, JavaScript (ES6/ES7), TypeScript
-- **Frameworks & Tools**: React.js, Next.js, Tailwind CSS, Redux Toolkit, Zustand, WordPress
+## PROFESSIONAL EXPERIENCE
 
-### Backend:
-- **Languages & Frameworks**: Node.js, Express.js, Nest.js
-- **Database Systems**: MongoDB, MySQL, PostgreSQL
-- **APIs**: RESTful APIs, GraphQL
+### Senior Full Stack Developer
+**Elebat Solution** | Addis Ababa, Ethiopia  
+*July 2023 – February 2024*
 
-### Cloud & DevOps:
-- **AWS**: S3, Amplify, Lambda
-- Agile methodologies, JIRA
+- Led the full stack development and management of key company websites, including *elebatsolution.com* and *awodr.com*.
+- Directed frontend team in the development of a SaaS B2B marketplace project, ensuring timely delivery and successful completion.
+- Utilized a diverse tech stack: React.js, JavaScript, Node.js, Express.js, TypeScript, Redux Toolkit, Tailwind CSS, and WordPress.
+- Implemented robust backend services with Node.js, Express.js, and MongoDB to support seamless functionality and scalability.
 
-### Specialized Skills:
-- Responsive design and architecture maintenance
-- Payment gateway integration (Stripe, Paytabs)
-- Mentorship and team leadership
+### Senior Full Stack Developer (Remote)
+**Prophecies** | India  
+*August 2023 – February 2024*
 
-## 💼 Professional Experience
+- Led the development of the company website using Node.js, React.js, Next.js, Tailwind CSS, and JavaScript.
+- Optimized performance with Next.js for fast loading speeds and improved user engagement.
+- Fostered team collaboration, mentoring junior developers, ensuring high-quality deliverables.
+- Streamlined workflows and maintained high-performance standards by utilizing advanced frontend techniques.
 
-### **UbuntuAI (USA, 2024 – Present)**
-**Role:** Software Developer Project Manager
-- **AI-Driven Software Solutions**: Led the development of AI-powered software systems, overseeing the complete lifecycle from concept to deployment.
-- **Agile Methodologies**: Implemented sprint planning and retrospectives to ensure efficient workflows.
-- **Team Management**: Coordinated efforts of developers, designers, and QA engineers to deliver high-quality projects.
-- **Technologies Used**: React.js, Node.js, AWS, JIRA
+### Frontend Developer
+**MBFAM Marketing Management** | Dubai, UAE  
+*May 2022 – September 2023*
 
-### **Elebat Solution (Addis Ababa, Ethiopia, 2023 – 2024)**
-**Role:** Full Stack Developer
-- **SaaS B2B Marketplace**:
-  - Designed and built scalable and responsive components using React.js, Redux Toolkit, and Tailwind CSS.
-  - Developed backend APIs using Node.js and Express.js, integrated with MongoDB for data storage.
-  - Managed a frontend team, ensuring timely project delivery.
-- **Corporate Websites**:
-  - Built and maintained websites like elebatsolution.com and awodr.com.
-  - Ensured seamless user experiences with intuitive UI and efficient performance.
+- Developed large-scale applications using React.js, Next.js, HTML, CSS, JavaScript, and Tailwind CSS.
+- Mentored junior developers and conducted code reviews to uphold best practices and high coding standards.
+- Contributed to the development of an e-commerce platform, customized Magento 2-based website *giftshop.ae*, and integrated Stripe & Paytabs payment gateways.
+- Created componentized systems and style guides for efficient development processes.
 
-### **Prophecies (Remote, India, 2023 – 2024)**
-**Role:** Senior Full Stack Developer
-- **Company Website**:
-  - Spearheaded the creation of a high-performance, responsive website using TypeScript, React.js, and Next.js.
-  - Enhanced user engagement through optimized page loading and tailored UX features.
-  - Styled components with Tailwind CSS for a modern, clean design.
+### System Developer
+**Labora International Trading PLC** | Ethiopia  
+*June 2021 – May 2022*
 
-### **MBFAM Marketing Management (Dubai, UAE, 2022 – 2023)**
-**Role:** Frontend Developer
-- **Giftshop Ecommerce System**:
-  - Customized and maintained a Magento 2-based ecommerce platform (giftshop.ae).
-  - Integrated payment gateways like Stripe and Paytabs for seamless transactions.
-  - Standardized components and design systems for scalable development.
-- **Large-Scale Applications**:
-  - Developed enterprise-grade applications with React.js, Next.js, and Tailwind CSS.
-  - Provided mentorship to junior developers and conducted code reviews.
+- Designed and implemented a responsive e-commerce website using the MERN stack (MongoDB, Express.js, React.js, Node.js).
+- Enhanced user experience by ensuring the website’s responsiveness and optimizing its functionality.
+- Integrated Stripe and Paytabs payment gateways into the booking system.
+- Managed and maintained the *car-acces.com* website, an ALIDROPSHIP platform selling car accessories globally using WordPress.
 
-### **Labora International Trading PLC (Ethiopia, 2021 – 2022)**
-**Role:** System Developer
-- **E-commerce Platform (MERN Stack)**:
-  - Designed and implemented user interfaces with React.js and Tailwind CSS.
-  - Integrated Stripe and Paytabs for secure payment processing.
-  - Delivered a seamless, engaging user experience.
-- **Car Accessories Website (car-acces.com)**:
-  - Built and managed a WordPress-based dropshipping site for global customers.
+---
 
-## 📚 Education
-- **BSc in Software Engineering** (2016–2021) – Haramaya University, Ethiopia
+## TECHNICAL SKILLS
+- **Languages & Frameworks**: JavaScript, TypeScript, React.js, Node.js, Next.js, Nest.js, Express.js, HTML5, CSS3  
+- **Databases**: MongoDB, MySQL, PostgreSQL  
+- **UI/UX Technologies**: Tailwind CSS, Material-UI, Bootstrap  
+- **Version Control**: Git, GitHub, GitLab  
+- **Other Tools**: Redux, Webpack, Docker, Nginx, Jira, Trello, CI/CD, Agile Methodology
 
-## 📈 GitHub Stats
-![Yohannes's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonny-grace&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonny-grace&layout=compact&theme=radical)
+---
+
+## EDUCATION
+**Bachelor of Science in Computer Science**  
+University of Addis Ababa, Ethiopia
+
+---
+
+## CERTIFICATIONS
+- Full Stack Web Development (Coursera, 2022)  
+- React Development (Udemy, 2023)  
+- JavaScript Algorithms and Data Structures (freeCodeCamp, 2021)
+
+---
+
+## PROJECTS & ACHIEVEMENTS
+- **E-commerce Website**: Developed an e-commerce platform using MERN stack, integrated Stripe & Paytabs for secure payments.
+- **SaaS B2B Marketplace**: Led the frontend development of a major SaaS project, improving functionality and user experience.
+- **Giftshop Customization**: Customized a Magento 2-based e-commerce site for a client, integrating advanced features and payment gateway systems.
 
 ---
 
