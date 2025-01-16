@@ -1,6 +1,6 @@
 # Hi there, I'm Yohannes Lemma! 👋
 
-Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** with over 3 years of experience building scalable, user-friendly web applications. My expertise lies in modern web technologies, creating clean and maintainable code, and delivering impactful projects.
+Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** with over 4 years of experience building scalable, user-friendly web applications. My expertise lies in modern web technologies, creating clean and maintainable code, and delivering impactful projects.
 
 ## 🛠️ Tech Stack & Skills
 
@@ -65,8 +65,8 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** with ove
 - **BSc in Software Engineering** (2016–2021) – Haramaya University, Ethiopia
 
 ## 📈 GitHub Stats
-![Yohannes's GitHub stats](https://github-readme-stats.vercel.app/api?username=YohannesLemma&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YohannesLemma&layout=compact&theme=radical)
+![Yohannes's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonny-grace&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonny-grace&layout=compact&theme=radical)
 
 ## 🔗 Let's Connect
 - 🌐 Portfolio: [john-portfolio-flame.vercel.app](https://john-portfolio-flame.vercel.app/)
