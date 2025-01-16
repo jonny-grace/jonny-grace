@@ -2,6 +2,12 @@
 
 Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** with over 4 years of experience building scalable, user-friendly web applications. My expertise lies in modern web technologies, creating clean and maintainable code, and delivering impactful projects.
 
+## 📍 Contact Information
+- 🌍 Location: Ethiopia
+- 📧 Email: [johnlemma9@gmail.com](mailto:johnlemma9@gmail.com)
+- 📞 Phone: +251 973374428
+- 🌐 Portfolio: [john-portfolio-flame.vercel.app](https://john-portfolio-flame.vercel.app/)
+
 ## 🛠️ Tech Stack & Skills
 
 ### Frontend:
@@ -24,24 +30,48 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** with ove
 
 ## 💼 Professional Experience
 
-### **Software Developer Project Manager** – UbuntuAI (2024 – Present)
-- Leading software development projects, ensuring timely and high-quality delivery.
-- Managing cross-functional teams and implementing agile workflows.
+### **UbuntuAI (USA, 2024 – Present)**
+**Role:** Software Developer Project Manager
+- Led the development of AI-driven software solutions from concept to deployment.
+- Managed a cross-functional team to deliver projects on time and within scope.
+- Implemented agile methodologies, including sprint planning and retrospectives.
+- Tools: JIRA, React.js, Node.js, AWS
 
-### **Full Stack Developer** – Elebat Solution (2023 – 2024)
-- Directed frontend teams for SaaS B2B marketplaces.
-- Developed and managed multiple web projects using React.js, Tailwind CSS, and Node.js.
+### **Elebat Solution (Addis Ababa, Ethiopia, 2023 – 2024)**
+**Role:** Full Stack Developer
+- **Project:** SaaS B2B Marketplace
+  - Led the frontend team through the project lifecycle.
+  - Built responsive and scalable components using React.js, Redux Toolkit, and Tailwind CSS.
+  - Enhanced backend systems using Node.js, Express.js, and MongoDB.
+- **Project:** Corporate Websites (elebatsolution.com, awodr.com)
+  - Developed and maintained corporate websites.
+  - Ensured user-friendly designs and functionality.
 
-### **Senior Full Stack Developer (Remote)** – Prophecies (2023 – 2024)
-- Spearheaded website development, achieving faster page loads and improved UX.
+### **Prophecies (Remote, India, 2023 – 2024)**
+**Role:** Senior Full Stack Developer
+- **Project:** Company Website
+  - Spearheaded the development of the company's website with modern technologies like TypeScript, React.js, and Next.js.
+  - Optimized page load speed and improved user engagement.
+  - Utilized Tailwind CSS for responsive and aesthetically pleasing styling.
 
-### **Frontend Developer** – MBFAM Marketing Management (2022 – 2023)
-- Developed large-scale applications and mentored junior developers.
-- Integrated payment gateways and customized Magento-based ecommerce systems.
+### **MBFAM Marketing Management (Dubai, UAE, 2022 – 2023)**
+**Role:** Frontend Developer
+- **Project:** Giftshop Ecommerce System
+  - Customized a Magento 2-based ecommerce system.
+  - Integrated payment gateways (Stripe, Paytabs).
+  - Established reusable components and style guides.
+- **Project:** Large-Scale Applications
+  - Built applications using React.js, Next.js, and Tailwind CSS.
+  - Mentored junior developers and conducted code reviews.
 
-### **System Developer** – Labora International Trading PLC (2021 – 2022)
-- Built ecommerce websites using the MERN stack.
-- Delivered exceptional UX through responsive design and optimized functionality.
+### **Labora International Trading PLC (Ethiopia, 2021 – 2022)**
+**Role:** System Developer
+- **Project:** E-commerce Website (MERN Stack)
+  - Designed and implemented user interfaces using React.js and Tailwind CSS.
+  - Ensured functionality and usability to deliver an exceptional user experience.
+  - Integrated Stripe and Paytabs for seamless payment processing.
+- **Project:** Car Accessories Website (car-acces.com)
+  - Managed and developed a WordPress-based dropshipping website for global car accessories.
 
 ## 🌟 Featured Projects
 
@@ -67,11 +97,6 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** with ove
 ## 📈 GitHub Stats
 ![Yohannes's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonny-grace&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonny-grace&layout=compact&theme=radical)
-
-## 🔗 Let's Connect
-- 🌐 Portfolio: [john-portfolio-flame.vercel.app](https://john-portfolio-flame.vercel.app/)
-- 📧 Email: [johnlemma9@gmail.com](mailto:johnlemma9@gmail.com)
-- 📞 Phone: +251 973374428
 
 ---
 
