@@ -1,4 +1,4 @@
-# Yohannes Lemma
+# Yohannis Lema
 **Full Stack Developer**  
 Email: [johnlemma9@gmail.com](mailto:johnlemma9@gmail.com) | Phone: +251 973374428 | Ethiopia  
 Portfolio: [https://john-portfolio-flame.vercel.app/](https://john-portfolio-flame.vercel.app/)
